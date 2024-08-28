@@ -1,3 +1,6 @@
+orig ![image](https://github.com/user-attachments/assets/2d3045a5-6782-4371-b4ec-80e36ace22f2)
+
+
 maya_newretopo_1_12segs
 ![maya_newretopo_1_12segs](https://github.com/user-attachments/assets/aa74ac7a-23c8-4ff8-aa24-694cf6171160)
 
